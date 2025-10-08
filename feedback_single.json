@@ -1,0 +1,11 @@
+{
+  "Id": "fb-101",
+  "AreaName": "Cafeteria",
+  "RunningText": "We appreciate your feedback to make our dining experience better!",
+  "BackgroundImage": "assets/backgrounds/Room2.jpg",
+  "Question": {
+    "Id": "q1",
+    "Icon": "",
+    "Text": "How was your dining experience today?"
+  }
+}

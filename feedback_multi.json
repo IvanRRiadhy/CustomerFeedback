@@ -1,0 +1,33 @@
+{
+  "Id": "fb-202",
+  "AreaName": "Restroom Area",
+  "RunningText": "Your opinion helps us maintain cleanliness and comfort for everyone.",
+  "BackgroundImage": "assets/backgrounds/Room1.jpg",
+  "Questions": [
+    {
+      "Id": "q1",
+      "Icon": "assets/icons/clean.png",
+      "Text": "Cleanliness"
+    },
+    {
+      "Id": "q2",
+      "Icon": "assets/icons/service.png",
+      "Text": "Service"
+    },
+    {
+      "Id": "q3",
+      "Icon": "assets/icons/facility.png",
+      "Text": "Facility"
+    },
+        {
+      "Id": "q4",
+      "Icon": "assets/icons/facility.png",
+      "Text": "Facility 2"
+    },
+        {
+      "Id": "q5",
+      "Icon": "assets/icons/service.png",
+      "Text": "Service 2"
+    }
+  ]
+}
